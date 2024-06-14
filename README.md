@@ -2,6 +2,8 @@ Store Management System
 Store Management System is a spring boot application that keeps data about brands, brand products, purchases and coupons. The store owner can store all the information about their products and purchases while perform operations such as adding brands, organising products, keeping track of past/ongoing purchases, and more. The system stores all products in relation to their brands, and the purchase module allows keeping track of product stock and coupons.
 
 Overview of The Project
+<br>
+
 ![image](https://github.com/Meroby113/Store-Management-Systema-spring-boot-application-/assets/91911696/8881f741-088c-45ba-a8f4-5f438e134449)
 
 ![image](https://github.com/Meroby113/Store-Management-Systema-spring-boot-application-/assets/91911696/a786d01b-8731-49c0-9ed9-f31d69048fb1)
